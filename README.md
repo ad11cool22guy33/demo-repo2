@@ -1,3 +1,3 @@
 # demo-repo2
 
-**New folder
+**New folder**
